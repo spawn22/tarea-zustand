@@ -1,0 +1,7 @@
+.btn-back{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 50px;
+    font-size: 15px;
+}
